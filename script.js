@@ -1,8 +1,8 @@
-const accessKey = "-Kg_RxPv30HmliBEKF_E0fRZoHBwag8RljVS5qjLqFc"
+const accessKey = "-Kg_RxPv30HmliBEKF_E0fRZoHBwag8RljVS5qjLqFc";
 
 const formele = document.querySelector("form");
 const inputele = document.getElementById("search-input");
-const searchResults = document.querySelector(".row");
+const searchResults = document.getElementById("row");
 const showMore = document.getElementById("show-more-button");
 
 let inputData = "";
